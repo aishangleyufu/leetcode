@@ -1,0 +1,5 @@
+C:\Users\c\Desktop\ccc\leetcode14\leetcode14\bin\Debug\leetcode14.exe
+C:\Users\c\Desktop\ccc\leetcode14\leetcode14\bin\Debug\leetcode14.pdb
+C:\Users\c\Desktop\ccc\leetcode14\leetcode14\obj\Debug\leetcode14.csprojResolveAssemblyReference.cache
+C:\Users\c\Desktop\ccc\leetcode14\leetcode14\obj\Debug\leetcode14.exe
+C:\Users\c\Desktop\ccc\leetcode14\leetcode14\obj\Debug\leetcode14.pdb
